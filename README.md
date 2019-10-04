@@ -115,7 +115,11 @@ Short description.
 - [Open Climate Fix](https://openclimatefix.github.io) | London, England | 2019
 
   Non-profit research and development lab, focused on reducing greenhouse gas emissions by solving machine learning problems. As of 2019 they are working on a forecasting system to reduce gas turbines backups on power grids that use solar energy.
-
+  
+ -[Proterra](https://www.proterra.com) |  North America | 2004 
+    Designing and manufacturing zero-emission heavy-duty vehicles.It has proven themselves by launching highly durable and energy efficient vehicles across 40 U.S. states and Canadian provinces.It aims to revolutionize transportation sytem which will reduce operation cost. 
+    Linkedin : https://www.linkedin.com/company/proterra-inc/about/ 
+     
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
   Current products include a solar panel roof that collects as much power as possible without looking like a solar panel, and Powerwall, a home energy storage solution.
